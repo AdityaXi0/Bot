@@ -1,0 +1,3 @@
+"ip":"Adityanartheal.aternos.me",
+"port":"58627"
+"name":"BOTNOTKILL"
